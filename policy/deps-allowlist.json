@@ -1,0 +1,19 @@
+{
+  "allowed": [
+    "astro",
+    "@astrojs/check",
+    "typescript",
+    "@types/node",
+    "tailwindcss",
+    "@tailwindcss/vite",
+    "eslint",
+    "@eslint/js",
+    "typescript-eslint",
+    "eslint-plugin-astro",
+    "prettier",
+    "prettier-plugin-astro",
+    "vitest",
+    "@vitest/coverage-v8",
+    "parse5"
+  ]
+}
